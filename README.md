@@ -3,11 +3,11 @@ Nazwa:  pm-lab-1-sn
 Autor:  Paweł Dąbal (pawel.dabal@wat.edu.pl)  
 Opis:   Projekt bazowy repozytorium na pierwsze spotkanie laboratoryjne z przedmiotu *Technika mikroprocesorowa*.  
 Wersja: v1.0  
-Data:   03.04.2020 r.  
+Data:   23.11.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Imię Nazwisko  
-Numer albumu:               00000  
+Imię i nazwisko studenta:   Łukasz Kaszuba       
+Numer albumu:               69627  
 Grupa studencka:            WEL18DE1S1
 
 # Pytania do zadań z instrukcji
