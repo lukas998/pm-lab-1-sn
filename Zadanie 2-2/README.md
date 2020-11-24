@@ -1,0 +1,2 @@
+# temi-lab-1-ss
+23.11.2020 WEL18DE1S1 ŁUKASZ KASZUBA
